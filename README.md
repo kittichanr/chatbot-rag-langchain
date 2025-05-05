@@ -5,6 +5,8 @@ this project follow this tutorial you can find more in this.
 - Youtube: https://www.youtube.com/watch?v=xf3gAFclwqo
 - Github: https://github.com/ThomasJanssen-tech/Chatbot-with-RAG-and-LangChain
 
+more resource: https://medium.com/credera-engineering/build-a-simple-rag-chatbot-with-langchain-b96b233e1b2a
+
 <h2>Installation</h2>
 
 <h3>1. Create a virtual environment</h3>
